@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Steven Ong
+Handle: Sh0cKwAvE_0x01
+Start Time: 2026-09-21 23:24:25.148646
+End Time: 2026-09-21 23:26:02.272141
+Duration (minutes): 1.62
+Score: 4/10
+Rating: BEGINNER
+---- Threat Logs ----
+Threat: FTP Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.137 on port
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service
+ALERT: Failed login attempt detected from 192.168.1.27 on port
+-------------------
+Threat: RDP Brute Force Attack
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.142 on port
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: Telnet Credential Theft
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: DNS Amplification DDoS
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.74 on port
+-------------------
+===================================
